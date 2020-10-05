@@ -1,6 +1,6 @@
 # PongClassicRecreation
 
-![Image of gameplay](/PongGameplay.png)
+![Image of gameplay](/PongGameplay.PNG)
 
 Recreating the classic Pong in Unity, based on the skeleton project from "Awesome Inc U" : [Unity Pong tutorial](https://www.awesomeincu.com/tutorials/unity-pong/)
 
